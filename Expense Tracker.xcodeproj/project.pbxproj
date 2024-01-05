@@ -25,6 +25,7 @@
 		CAD99CF72B4046AD002BCDDB /* Date+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD99CF62B4046AD002BCDDB /* Date+Extensions.swift */; };
 		CAD99CFB2B41E969002BCDDB /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD99CFA2B41E969002BCDDB /* CardView.swift */; };
 		CAD99CFD2B432667002BCDDB /* TransactionCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD99CFC2B432667002BCDDB /* TransactionCardView.swift */; };
+		CAD99CFF2B487481002BCDDB /* SwipeAction.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD99CFE2B487481002BCDDB /* SwipeAction.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		CAD99CF62B4046AD002BCDDB /* Date+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Extensions.swift"; sourceTree = "<group>"; };
 		CAD99CFA2B41E969002BCDDB /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		CAD99CFC2B432667002BCDDB /* TransactionCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionCardView.swift; sourceTree = "<group>"; };
+		CAD99CFE2B487481002BCDDB /* SwipeAction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeAction.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +146,7 @@
 			isa = PBXGroup;
 			children = (
 				CAD99CFA2B41E969002BCDDB /* CardView.swift */,
+				CAD99CFE2B487481002BCDDB /* SwipeAction.swift */,
 				CAD99CFC2B432667002BCDDB /* TransactionCardView.swift */,
 			);
 			path = Helpers;
@@ -224,6 +227,7 @@
 				CAD99CED2B402DED002BCDDB /* Recents.swift in Sources */,
 				CAD99CE82B3FE5BE002BCDDB /* Transaction.swift in Sources */,
 				CAD99CFB2B41E969002BCDDB /* CardView.swift in Sources */,
+				CAD99CFF2B487481002BCDDB /* SwipeAction.swift in Sources */,
 				CAD99CD12B3F3E12002BCDDB /* ContentView.swift in Sources */,
 				CAD99CDF2B3F3E48002BCDDB /* IntroScreen.swift in Sources */,
 				CAD99CE42B3F4469002BCDDB /* Tab.swift in Sources */,
