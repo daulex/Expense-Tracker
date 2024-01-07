@@ -26,6 +26,7 @@
 		CAD99CFB2B41E969002BCDDB /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD99CFA2B41E969002BCDDB /* CardView.swift */; };
 		CAD99CFD2B432667002BCDDB /* TransactionCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD99CFC2B432667002BCDDB /* TransactionCardView.swift */; };
 		CAD99CFF2B487481002BCDDB /* SwipeAction.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD99CFE2B487481002BCDDB /* SwipeAction.swift */; };
+		CAD99D1D2B49C7B0002BCDDB /* DateFilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAD99D1C2B49C7B0002BCDDB /* DateFilterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		CAD99CFA2B41E969002BCDDB /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		CAD99CFC2B432667002BCDDB /* TransactionCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionCardView.swift; sourceTree = "<group>"; };
 		CAD99CFE2B487481002BCDDB /* SwipeAction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeAction.swift; sourceTree = "<group>"; };
+		CAD99D1C2B49C7B0002BCDDB /* DateFilterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFilterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 				CAD99CFA2B41E969002BCDDB /* CardView.swift */,
 				CAD99CFE2B487481002BCDDB /* SwipeAction.swift */,
 				CAD99CFC2B432667002BCDDB /* TransactionCardView.swift */,
+				CAD99D1C2B49C7B0002BCDDB /* DateFilterView.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -224,6 +227,7 @@
 			files = (
 				CAD99CF32B402E22002BCDDB /* Graphs.swift in Sources */,
 				CAD99CEA2B3FE69E002BCDDB /* TintColor.swift in Sources */,
+				CAD99D1D2B49C7B0002BCDDB /* DateFilterView.swift in Sources */,
 				CAD99CED2B402DED002BCDDB /* Recents.swift in Sources */,
 				CAD99CE82B3FE5BE002BCDDB /* Transaction.swift in Sources */,
 				CAD99CFB2B41E969002BCDDB /* CardView.swift in Sources */,
